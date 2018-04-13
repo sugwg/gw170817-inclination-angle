@@ -16,7 +16,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 
 ## Introduction
 
-This notebook is a companion to the paper posted at [arxiv:18xx.yyyyy](https://arxiv.org/abs/18xx.yyyyy). It demonstrates how to read and use our posterior proability density files from the MCMC and shows how to reconstruct Figure 1 in the paper from the raw data.
+This notebook is a companion to the paper posted at [arxiv:1804.04179](https://arxiv.org/abs/1804.04179). It demonstrates how to read and use our posterior proability density files from the MCMC and shows how to reconstruct Figure 1 in the paper from the raw data.
 
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 ```
