@@ -20,7 +20,17 @@ This notebook is a companion to the paper posted at [arxiv:1804.04179](https://a
 
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 ```
-bibtex key here
+@article{Finstad:2018wid,
+      author         = "Finstad, Daniel and De, Soumi and Brown, Duncan A. and
+                        Berger, Edo and Biwer, Christopher M.",
+      title          = "{Measuring the viewing angle of GW170817 with
+                        electromagnetic and gravitational waves}",
+      year           = "2018",
+      eprint         = "1804.04179",
+      archivePrefix  = "arXiv",
+      primaryClass   = "astro-ph.HE",
+      SLACcitation   = "%%CITATION = ARXIV:1804.04179;%%"
+}
 ```
 
 The data provided contain the thinned posterior samples from the MCMC chains used to produce the posterior proability density plots shown in Figure 1. These data are stored in the files:
