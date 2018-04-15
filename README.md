@@ -49,7 +49,7 @@ jupyter notebook --ip 0.0.0.0 --no-browser
 ```
 You can then connect to the notebook server at the URL printed by ``jupyter``. Navigate to the directory `gw170817-inclination-angle` in the cloned git repository and open [data_release_companion.ipynb](https://github.com/sugwg/gw170817-inclination-angle/blob/master/data_release_companion.ipynb), the notebook that demonstartes use of these reults.
 
-## Acknowlegdements
+## Acknowledgements
 
 We thank Stefan Ballmer and Steven Reyes for useful discussions. We thank Alexander H. Nitz and Collin D. Capano for useful discussions on setting up this notebook.
 We particularly thank Collin D. Capano for contributing to the development of PyCBC Inference; unfortunately, he did not wish to be an author of this work because of restrictions required by the LIGO Scientific Collaboration policies. 
