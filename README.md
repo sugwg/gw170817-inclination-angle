@@ -16,7 +16,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 
 ## Introduction
 
-This notebook is a companion to the paper posted at [arxiv:1804.04179](https://arxiv.org/abs/1804.04179). It demonstrates how to read and use our posterior proability density files from the MCMC and shows how to reconstruct Figure 1 in the paper from the raw data.
+This notebook is a companion to [Finstad et al., Astrophys. J. Lett. 860 (2018) L2]https://doi.org/10.3847/2041-8213/aac6c1) which is also posted at [arxiv:1804.04179](https://arxiv.org/abs/1804.04179). It demonstrates how to read and use our posterior proability density files from the MCMC and shows how to reconstruct Figure 1 in the paper from the raw data.
 
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 ```
@@ -25,7 +25,11 @@ We encourage use of these data in derivative works. If you use the material prov
                         Berger, Edo and Biwer, Christopher M.",
       title          = "{Measuring the viewing angle of GW170817 with
                         electromagnetic and gravitational waves}",
+      journal        = "Astrophys. J. Lett.",
+      volume         = "860",
       year           = "2018",
+      pages          = "L2",
+      doi            = "10.3847/2041-8213/aac6c1",
       eprint         = "1804.04179",
       archivePrefix  = "arXiv",
       primaryClass   = "astro-ph.HE",
